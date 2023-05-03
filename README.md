@@ -2,7 +2,7 @@
 
 Project created as part of course https://www.udemy.com/course/react-tutorial-and-projects-course.
 
-Project showcases a simplified clone of the navbar and its behavior in https://strapi.io
+Project showcases a simplified clone of the navbar, the submenus and the corresponding functionalities from the website https://strapi.io
 
 Made in: ReactJS
 
